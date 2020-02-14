@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_scheme_array">
+        <item>Default</item>
+        <item>Pastel</item>
+        <item>MonoGreen</item>
+        <item>MonoBlue</item>
+        <item>MonoRed</item>
+    </string-array>
+    <string-array name="size_array">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="delay_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <array name="default_scheme">
+        <item>#000000</item>
+        <item>#00e000</item>
+        <item>#e0e000</item>
+        <item>#ff6500</item>
+        <item>#e00000</item>
+    </array>
+    <array name="pastel_scheme">
+        <item>#39375b</item>
+        <item>#c6f1d6</item>
+        <item>#e0f5b9</item>
+        <item>#ffba92</item>
+        <item>#ff8080</item>
+    </array>
+    <array name="monogreen_scheme">
+        <item>#36802d</item>
+        <item>#f0f7da</item>
+        <item>#c9df8a</item>
+        <item>#77ab59</item>
+        <item>#36802d</item>
+    </array>
+    <array name="monoblue_scheme">
+        <item>#011f4b</item>
+        <item>#b3cde0</item>
+        <item>#6497b1</item>
+        <item>#005b96</item>
+        <item>#03396c</item>
+    </array>
+    <array name="monored_scheme">
+        <item>#6e2f1a</item>
+        <item>#f5d3ce</item>
+        <item>#ec9488</item>
+        <item>#eb5a46</item>
+        <item>#b04632</item>
+    </array>
+</resources>
